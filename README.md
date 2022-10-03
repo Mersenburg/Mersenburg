@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Cássio Mersenburg
 - 👀 I’m interested in Game development and BackEnd development 
 - 🌱 I’m currently learning Ruby on Rails and Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mersenburg&show_icons=true&theme=dark&count_private=true&card_width=400)
