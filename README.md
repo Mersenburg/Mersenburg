@@ -4,7 +4,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mersenburg&show_icons=true&theme=dark&count_private=true&card_width=550)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mersenburg&show_icons=true&theme=dark&count_private=true&card_width=500)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mersenburg&theme=dark&langs_count=7&hide=roff&layout=compact&card_width=400)
 
 <!---
